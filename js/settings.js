@@ -37,11 +37,11 @@ var socialIconSettings = {
             "text": "Google+"
         },
         "email": {
-            "url": "mailto:",
+            "url": "https://www.bracbank.com/en/contact/",
             "text": "Email"
         },
         "link": {
-            "url": "https://pb.com",
+            "url": "https://www.bracbank.com/en/",
             "text": "Website"
         }
     }
