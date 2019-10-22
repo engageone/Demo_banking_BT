@@ -25,7 +25,7 @@ var socialIconSettings = {
     "position": "right",
     "icons": {
         "facebook": {
-            "url": "https://facebook.com",
+            "url": "https://www.facebook.com/BRACBANK",
             "text": "Facebook"
         },
         "twitter": {
