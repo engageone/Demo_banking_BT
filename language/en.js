@@ -91,15 +91,15 @@ var Translations = {
             "trackingName": "promo1",
             "url": "https://www.bracbank.com/en/",
             "label": "Promo (Top)",
-            "desktopImage": "./images/promo_small.png",
-            "mobileImage": "./images/promo_landscape.png"
+            "desktopImage": "./images/poster_poster.jpg",
+            "mobileImage": "./images/poster_poster.jpg"
         },
         "promo2": {
             "trackingName": "promo2",
             "url": "https://www.bracbank.com/en/",
             "label": "Promo (Bottom)",
             "desktopImage": "./images/promo_tuesday.png",
-            "mobileImage": "./images/promo_landscape.png"
+            "mobileImage": "./images/poster_land.jpg"
         }
     },
 
