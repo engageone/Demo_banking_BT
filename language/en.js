@@ -98,7 +98,7 @@ var Translations = {
             "trackingName": "promo2",
             "url": "https://www.bracbank.com/en/",
             "label": "Promo (Bottom)",
-            "desktopImage": "./images/promo_tuesday.png",
+            "desktopImage": "./images/poster_poster.jpg",
             "mobileImage": "./images/poster_land.jpg"
         }
     },
